@@ -21,6 +21,7 @@ A machine learning-based voice classifier that distinguishes between the spoken 
 ## Dataset
 This project uses the Free Spoken Digit Dataset (FSDD), an open dataset with .wav  recordings of spoken digits by multiple speakers.
 To download the dataset:
+  
    Open your terminal and run:
    
        git clone https://github.com/Jakobovski/free-spoken-digit-dataset.git
