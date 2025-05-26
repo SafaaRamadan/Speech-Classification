@@ -19,10 +19,7 @@ A machine learning-based voice classifier that distinguishes between the spoken 
 - Metrics: Accuracy, Precision, Recall, F1-Score
 ---
 ## Dataset
-This project uses the Free Spoken Digit Dataset (FSDD), an open dataset with 
-                      
-                      .wav 
-  recordings of spoken digits by multiple speakers.
+This project uses the Free Spoken Digit Dataset (FSDD), an open dataset with .wav  recordings of spoken digits by multiple speakers.
 To download the dataset:
    Open your terminal and run:
    
